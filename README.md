@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/PeterPaulez/PeterPaulez/main/binary.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/PeterPaulez/PeterPaulez/master/binary.jpeg" width="100%">
 <br/>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/PeterPaulez/PeterPaulez/main/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/PeterPaulez/PeterPaulez/master/wave.gif" width="30px">
 - My name is Pedro Pablo Aparicio, I am from **Madrid-Spain**. I have been leading tech teams for the last 20 years, I love Tech and these are some of my preferred positions: CTO | Head of Technology | Engineering Manager
 - I am a big tech enthusiast (20-plus years working in internet and marketing), I don't need motivation because I wake up everyday hungry for learning and being better. Deep natural leadership skills and vast experience building strong and powerful teams from scratch. 
 
