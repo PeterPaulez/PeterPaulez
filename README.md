@@ -2,8 +2,8 @@
 <br/>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/PeterPaulez/PeterPaulez/master/wave.gif" width="30px">
-- My name is Pedro Pablo Aparicio, I am from **Madrid-Spain**. I have been leading tech teams for the last 20 years, I love Tech and these are some of my preferred positions: CTO | Head of Technology | Engineering Manager
-- I am a big tech enthusiast (20-plus years working in internet and marketing), I don't need motivation because I wake up everyday hungry for learning and being better. Deep natural leadership skills and vast experience building strong and powerful teams from scratch. 
+- My name is Pedro Pablo Aparicio, I am from **Madrid-Spain**. I have been leading tech teams for the last 20 years. **I love leading, inspiring and scaling Engineering Teams**.
+- I am a product-orientated entrepreneurial CTO/VP of Engineering with more than 20 years of deep technical experience developing, implementing and supporting complex infrastructures for fast growing digital businesses. Equally, versed in deep natural leadership, with vast experience and passion building cohesive and effective teams from scratch. Strong skills for managing ETAs, development and organizational structure. Comfortable with building engineering teams from ground up into scaled multidisciplinary teams.
 
 <br/>
 
